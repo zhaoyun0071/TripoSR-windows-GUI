@@ -6,7 +6,7 @@ https://github.com/VAST-AI-Research/TripoSR
 
 # B站介绍：https://www.bilibili.com/video/BV1au4m1g7uW 
 
- ![image](https://github.com/zhaoyun0071/OOTDiffusion-windows-GUI/blob/main/1.png)
+ ![image](https://github.com/zhaoyun0071/TripoSR-windows-GUI/blob/main/ui8.png)
 
 # （1）AI图片转3D小工具V1.0下载
 
